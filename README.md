@@ -1,8 +1,13 @@
-# SafeHaven – A Human-Centered AI for Emergency Housing Support
+# Manager Assistant – SafeHaven: AI-Driven Emergency Housing Assistant
+Team Sapphire, SJSU 118i Course-AI for Social Good Project | Spring 2025
 
-SafeHaven is a generative AI web app created to help real people navigate real struggles—specifically, those seeking Emergency Interim Housing (EIH) services in San José, California. Inspired by conversations around housing equity and support gaps, our team designed SafeHaven to be more than just functional—it’s meant to be empathetic, accessible, and socially responsible.
+Project Overview 
+SafeHaven is a generative AI web app created to help real people navigate real struggles—specifically, those seeking Emergency Interim Housing (EIH) services in San José, California. Inspired by conversations around housing equity and support gaps, our team designed SafeHaven to be more than just functional—it’s meant to be empathetic, accessible, and socially responsible. This project was developed as part of San José State University’s AI for Social Good initiative.
 
-This project was developed as part of San José State University’s AI for Social Good initiative.
+---
+
+## SafeHaven’s Impact and Value
+Finding housing support can be overwhelming, especially for people in crisis. SafeHaven was created to make that process easier and more compassionate. Built as part of San José State University’s AI for Social Good initiative, our app uses generative AI to help individuals navigate Emergency Interim Housing (EIH) services in San José. Whether someone needs to find nearby shelter, check available resources, or simply understand their options, SafeHaven provides real-time assistance through a friendly AI-powered platform. Our goal was to reduce the barriers many people face when trying to access housing services, while also helping case managers work more efficiently. The platform was built with a strong focus on accessibility, privacy, and ethical design—so it can serve those who need it most, safely and effectively.
 
 ---
 
