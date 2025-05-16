@@ -6,8 +6,6 @@ This project was developed as part of San José State University’s AI for Soci
 
 ---
 
----
-
 ## Key Features
 
 SafeHaven includes three core tools designed to support users:
