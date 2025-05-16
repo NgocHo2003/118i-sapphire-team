@@ -1,7 +1,7 @@
 # Manager Assistant – SafeHaven: AI-Driven Emergency Housing Assistant
 Team Sapphire, SJSU 118i Course-AI for Social Good Project | Spring 2025
 
-Project Overview 
+## Project Overview 
 SafeHaven is a generative AI web app created to help real people navigate real struggles—specifically, those seeking Emergency Interim Housing (EIH) services in San José, California. Inspired by conversations around housing equity and support gaps, our team designed SafeHaven to be more than just functional—it’s meant to be empathetic, accessible, and socially responsible. This project was developed as part of San José State University’s AI for Social Good initiative.
 
 ---
