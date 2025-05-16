@@ -1,5 +1,4 @@
-# SmartHaven – Emergency Interim Housing Support Platform  
-BUS4-118i, Spring '25 – San José State University
+
 
 **Deployed App**:  
 - [smarthaven.streamlit.app](https://smarthaven.streamlit.app) – Primary deployment hosted and maintained by me  
