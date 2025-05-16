@@ -39,7 +39,7 @@ SafeHaven includes three core tools designed to support users:
 
 ---
 
-## 📎 Try It or See It
+## Try It or See It
 
 - Live App → https://smarthaven.streamlit.app 
 - Demo Video → https://docs.google.com/file/d/1t693dj6CqUlb_MUc_4iyYmRMWd4ZfAUk/preview  
@@ -48,7 +48,7 @@ SafeHaven includes three core tools designed to support users:
 
 ---
 
-## 🎓 A Learning Moment
+## A Learning Moment
 
 More than just an AI build, SafeHaven taught me how to merge technical problem-solving with human empathy. It challenged me to think not only about *what* we’re building—but *who* we’re building it for.
 
