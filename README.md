@@ -55,8 +55,8 @@ SafeHaven includes three core tools designed to support users:
 
 ## A Learning Moment
 
-More than just an AI build, SafeHaven taught me how to merge technical problem-solving with human empathy. It challenged me to think not only about *what* we’re building—but *who* we’re building it for.
+More than just an AI build, SafeHaven taught me how to merge technical problem-solving with human empathy. It challenged me to think not only about who we are building—but who we arebuilding it for.
 
-This isn’t just an app. It’s a small step toward making support systems more navigable for those who need them most.
+This is not just an app. It is a small step toward making support systems more navigable for those who need them most.
 
 ---
