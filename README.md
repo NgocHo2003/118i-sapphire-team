@@ -48,7 +48,7 @@ SafeHaven includes three core tools designed to support users:
 
 - Live App → https://smarthaven.streamlit.app 
 - Demo Video → https://docs.google.com/file/d/1t693dj6CqUlb_MUc_4iyYmRMWd4ZfAUk/preview  
-- GitHub Repository → https://github.com/justincueva/SafeHaven-AI4SG)](https://github.com/NgocHo2003/118i-sapphire-team/tree/ngoc/Pages
+- GitHub Repository → https://github.com/NgocHo2003/118i-sapphire-team/tree/ngoc
 - Project Folder → https://drive.google.com/drive/u/1/folders/1DrmCUuBRAr00s14SRBf6MUwzhCUmrH6K
 
 ---
